@@ -12,6 +12,8 @@ Introduction
 
 Selecting a reliable forex and CFD broker is crucial for ensuring a smooth and profitable trading experience. TradeEU has emerged as a competitive trading platform, offering a variety of assets, advanced trading tools, and a secure trading environment. This review covers all aspects of TradeEU, including regulation, trading platforms, account types, security, customer support, and more, to help traders determine whether this broker is a good fit for their needs.
 
+![image](https://github.com/Broker-review/TradeEU-review/blob/51c2e9b9f94b58754c873349e0124eab68c76ed5/tradeeu%20screen%20info.PNG)
+
 Overview of TradeEU
 -------------------
 
