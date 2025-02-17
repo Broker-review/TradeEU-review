@@ -3,6 +3,10 @@
 TradeEU Broker Review: A Complete Analysis
 ==========================================
 
+| **Trading platform** | **Accounts** | **Leverage**|
+|-------------| -------------- | --------------------- |
+| MetaTrader5 | Demo, Silver, Gold, Platinum | Up to 1:30 |
+
 Introduction
 ------------
 
