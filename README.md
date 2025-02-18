@@ -3,16 +3,28 @@
 TradeEU Broker Review: A Complete Analysis
 ==========================================
 
-| **Trading platform** | **Accounts** | **Leverage**|
-|-------------| -------------- | --------------------- |
-| MetaTrader5 | Demo, Silver, Gold, Platinum | Up to 1:30 |
-
 Introduction
 ------------
 
 Selecting a reliable forex and CFD broker is crucial for ensuring a smooth and profitable trading experience. TradeEU has emerged as a competitive trading platform, offering a variety of assets, advanced trading tools, and a secure trading environment. This review covers all aspects of TradeEU, including regulation, trading platforms, account types, security, customer support, and more, to help traders determine whether this broker is a good fit for their needs.
 
-![image](https://github.com/Broker-review/TradeEU-review/blob/51c2e9b9f94b58754c873349e0124eab68c76ed5/tradeeu%20screen%20info.PNG)
+| **Asset** | **details** | 
+|-------------| -------------- | 
+| Trading platform | EUR/USD, GBP/USD, USD/JPY | 
+| Accounts | Gold, Silver, Crude Oil | 
+| Account currency | S&P 500, NASDAQ, FTSE 100 | 
+| Withdrawal | Bitcoin, Ethereum, Ripple | 
+| Minimum deposit | 250 EUR | 
+| Leverage | Gold, Silver, Crude Oil | 
+| PAMM accounts | S&P 500, NASDAQ, FTSE 100 | 
+| Min order | Bitcoin, Ethereum, Ripple |
+| EUR/USD spread | Bitcoin, Ethereum, Ripple | 
+| Instruments | CFD on Forex, stocks, indeces, metals, energies, commodities, cryptocurrencies and ETFs | 
+| Margin call/ Stop out | No information | 
+| Liquidity power | No information | 
+| Mobile trading | Yes |
+
+![image]()
 
 Overview of TradeEU
 -------------------
