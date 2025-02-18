@@ -24,7 +24,7 @@ Selecting a reliable forex and CFD broker is crucial for ensuring a smooth and p
 | Liquidity power | No information | 
 | Mobile trading | Yes |
 
-![image]()
+![image](https://github.com/Broker-review/TradeEU-review/blob/bccf252a97286db491787ec50a3f1b35af6fe591/tradeeu%20home%20page.png)
 
 Overview of TradeEU
 -------------------
