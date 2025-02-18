@@ -10,15 +10,15 @@ Selecting a reliable forex and CFD broker is crucial for ensuring a smooth and p
 
 | **Asset** | **details** | 
 |-------------| -------------- | 
-| Trading platform | EUR/USD, GBP/USD, USD/JPY | 
-| Accounts | Gold, Silver, Crude Oil | 
-| Account currency | S&P 500, NASDAQ, FTSE 100 | 
-| Withdrawal | Bitcoin, Ethereum, Ripple | 
+| Trading platform | Metatrader 5 | 
+| Accounts | Demo, Silver, Gold, Platinum | 
+| Account currency | EUR | 
+| Withdrawal | Bank transfers, Visa, Mastercard, Maestro, Neteller, Skrill, iDEAL, Klarna, Multibanko  | 
 | Minimum deposit | 250 EUR | 
-| Leverage | Gold, Silver, Crude Oil | 
-| PAMM accounts | S&P 500, NASDAQ, FTSE 100 | 
-| Min order | Bitcoin, Ethereum, Ripple |
-| EUR/USD spread | Bitcoin, Ethereum, Ripple | 
+| Leverage | Up to 1:30 | 
+| PAMM accounts | No | 
+| Min order | 0,01 |
+| EUR/USD spread | 2.5 -2.9   | 
 | Instruments | CFD on Forex, stocks, indeces, metals, energies, commodities, cryptocurrencies and ETFs | 
 | Margin call/ Stop out | No information | 
 | Liquidity power | No information | 
